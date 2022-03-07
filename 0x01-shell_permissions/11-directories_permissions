@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ugo+x /*
+touch ugo+x ./*
